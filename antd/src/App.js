@@ -4,6 +4,7 @@ import "./App.css";
 
 import DatePickerManually from "./Components/FirstLearn/DatePickerManually";
 import DatePickerUsage from "./Components/FirstLearn/DatePickerUsage";
+import Button from "antd/es/button";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <DatePickerUsage />
         <DatePickerManually />
+        <Button type="primary">Button</Button>
         <a
           className="App-link"
           href="https://reactjs.org"
