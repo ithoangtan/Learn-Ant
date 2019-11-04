@@ -1,6 +1,8 @@
 /* @import "~antd/dist/antd.css"; */
 /* Not need statement above */
 
+@import "~antd/dist/antd.less";
+
 .App {
   text-align: center;
 }
