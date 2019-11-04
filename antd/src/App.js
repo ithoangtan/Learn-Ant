@@ -4,7 +4,9 @@ import "./App.css";
 
 import DatePickerManually from "./Components/FirstLearn/DatePickerManually";
 import DatePickerUsage from "./Components/FirstLearn/DatePickerUsage";
-import Button from "antd/es/button";
+// import Button from "antd/es/button";
+// import style new:
+import { Button } from "antd";
 
 function App() {
   return (

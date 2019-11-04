@@ -1,3 +1,4 @@
+//Style new import - ES6 sported
 import { DatePicker } from "antd";
 import "antd/dist/antd.css"; // or 'antd/dist/antd.less'
 
